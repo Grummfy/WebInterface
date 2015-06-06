@@ -1,0 +1,15 @@
+{
+    "name": "grummfy/nforum",
+    "authors": [
+        {
+            "name": "Grummfy",
+            "email": "grummfy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "PSR-4": {
+            "NForum\\" : "src/contracts/"
+        }
+    },
+    "require": {}
+}
