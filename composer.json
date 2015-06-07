@@ -1,5 +1,5 @@
 {
-    "name": "grummfy/nforum",
+    "name": "grummfy/WebInterface",
     "authors": [
         {
             "name": "Grummfy",
@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "PSR-4": {
-            "NForum\\" : "src/contracts/"
+            "WebInterface\\" : "src/"
         }
     },
     "require": {}
