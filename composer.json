@@ -1,9 +1,14 @@
 {
-    "name": "grummfy/WebInterface",
+    "name": "grummfy/web-interface",
+    "type": "interface",
+    "description": "A set of interface to defined common web components",
+    "keywords": ["interface","forum","web","blog"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Grummfy",
-            "email": "grummfy@gmail.com"
+            "email": "grummfy@gmail.com",
+            "role": "Developer"
         }
     ],
     "autoload": {
